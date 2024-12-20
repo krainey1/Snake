@@ -6,7 +6,7 @@ Either
 the repo and use the Makefile (Uses GCC) to compile the executable or using the provided executable
 
 
-> chmod +x snake
+> chmod +x snake \
 > ./snake
 
 To play: 
