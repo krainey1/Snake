@@ -13,7 +13,7 @@ To play:
 Use i,j,k,m to control the snake. Current level indicates the amount of points you will recieve for eating an apple.
 To level up, clear all apples in the current level. Obstacles and Apples will increase as the game continues. 
 A beep sound will occur to signal eating an apple, leveling up, and the end of the game. The game will end if
-the snake hits the borders, itself, or an obstancle. Upon the completion of the game, your game statistics will 
+the snake hits the borders, itself, or an obstacle. Upon the completion of the game, your game statistics will 
 be presented to you in the terminal. 
 
 Note:
