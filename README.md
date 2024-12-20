@@ -2,7 +2,10 @@
 To run:
 Either 
 > git clone
+
 the repo and use the Makefile (Uses GCC) to compile the executable or using the provided executable
+
+
 > chmod +x snake
 > ./snake
 
